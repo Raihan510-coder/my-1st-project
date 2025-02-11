@@ -57,3 +57,17 @@
     font-size: 16px;
     color:blue;
 }
+.div{
+    width: 250px;
+    height: 130px;
+    background-color: azure;
+    /* justify-content: center; */
+    text-align: center;
+    /* align-items: center; */
+    border-radius: 24px;
+    font-weight: bold;
+    font-size: 40px;
+    /* margin-top: 60px; */
+    /* text-align: justify ; */
+    align-content: center;
+}
