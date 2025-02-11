@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.apple{
+    display: flex;
+    margin-left:20px ;
+    /* justify-content: center; */
+    justify-content: space-around;
+    height: 500px;
+    width: 1200px;
+    background-color: bisque;
+    align-items: center;
+    border-radius: 24px;
+
+
+}
+.head{
+    gap: 10px;
+}
+.ant{
+    font-weight:lighter ;
+    font-size:24px ;
+    /* width: 600px; */
+    /* height: 30px; */
+    margin-bottom: 30px;
+    
+}
+.ball{
+    font-weight: bold;
+    font-size:56px ;
+    margin-top: 30px;
+    /* height: 200px; */
+    /* width: 600px; */
+}
+.cat{
+    font-weight: normal;
+    font-size: 16px;
+    height: 56px;
+    width: 256px;
+    border-radius:8px ;
+    color: aliceblue;
+    background-color: darkcyan;
+    border: none;
+    margin-bottom: 50px;
+}
+.time{
+    font-weight: bold;
+    font-size: 20px;
+}
+.ab{
+    font-weight: 400;
+    font-size: 16px;
+}
+.v{
+    font-weight: 600;
+    font-size: 16px;
+    color:blue;
+}
